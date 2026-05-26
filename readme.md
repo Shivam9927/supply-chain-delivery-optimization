@@ -401,7 +401,7 @@ Graduating May 2026
 
 📧 Email: [shivampawars@gmail.com](mailto:shivampawars@gmail.com)  
 💼 LinkedIn: [linkedin.com/in/shivam-pawar09](https://linkedin.com/in/shivam-pawar09/)  
-🐙 GitHub: [github.com/Shivam9927(https://github.com/Shivam9927)
+🐙 GitHub: [github.com/Shivam9927](https://github.com/Shivam9927)
 
 ---
 
