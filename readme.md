@@ -2,7 +2,7 @@
 
 > **End-to-end supply chain analytics project identifying operational bottlenecks, quantifying business impact, and building predictive models to reduce $2.1M profit at risk from late deliveries**
 
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![Python](https://img.shields.io/badge/Python-3.13+-blue.svg)](https://www.python.org/downloads/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
