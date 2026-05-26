@@ -198,49 +198,59 @@ A comprehensive **10-page executive report** was prepared for business stakehold
 
 ### Report Highlights
 
-![Report Cover](visualizations/report_preview.png)
+<img width="1202" height="291" alt="image" src="https://github.com/user-attachments/assets/a30825d6-b40f-4ed5-82c6-993c333253d0" />
+
 
 ---
 
 ## 📈 Results & Visualizations
 
 ### Profitability Distribution
-![Profitability Distribution](visualizations/profitability_distribution.png)
+
+<img width="621" height="787" alt="Profitability Distribution " src="https://github.com/user-attachments/assets/3fa7bbb0-1445-4fc8-a0d3-def604221410" />
+
 
 *80.7% of orders are profitable, but 18.7% loss-making share is disproportionately concentrated among delayed shipments*
 
 ---
 
 ### Delay Distribution & Profit Impact
-![Delay Analysis](visualizations/delay_profit_analysis.png)
+
+<img width="1308" height="477" alt="delayed distribution" src="https://github.com/user-attachments/assets/2b6209dd-9f84-4f0b-b547-71ff89e72459" />
+
 
 *31% of orders arrive exactly 1 day late; mean profit remains stable at $20-23 across all delay levels*
 
 ---
 
 ### Bottleneck Detection (6 Dimensions)
-![Bottleneck Detection](visualizations/bottleneck_analysis.png)
+
+<img width="1532" height="832" alt="Bottleneck Detection " src="https://github.com/user-attachments/assets/d3f28a77-865b-405a-804c-8d4db63bee2b" />
+
 
 *Shipping Mode is the #1 operational failure point: First Class 100% delay, Second Class 79.8%, Standard Class 39.8%*
 
 ---
 
 ### Root Cause Analysis — Central Africa
-![Root Cause Analysis](visualizations/root_cause_central_africa.png)
+<img width="1346" height="713" alt="Root Cause Analysis " src="https://github.com/user-attachments/assets/6f03b064-5a3b-48df-a65a-3c3abc8b7e6f" />
+
 
 *Top 10 delay drivers in highest-risk region: First Class Shipping (100%), Payment Review (80%)*
 
 ---
 
 ### Time-Based Delay Patterns
-![Time-Based Analysis](visualizations/time_based_analysis.png)
+<img width="1566" height="500" alt="Time-Based Delay Patterns " src="https://github.com/user-attachments/assets/578c9d99-9a07-41ba-9890-ee66a470abe0" />
+
 
 *Seasonal peaks: Aug/Sep/Dec; Intra-day peak: Hour 21 (late evening orders)*
 
 ---
 
 ### Machine Learning Model Performance
-![Confusion Matrix](visualizations/confusion_matrix.png)
+<img width="1567" height="452" alt="Model accuracy" src="https://github.com/user-attachments/assets/3cb08508-a131-40f7-b0c1-42c5747f0cb2" />
+
 
 *Random Forest achieves 74% accuracy, 78% precision on late delivery predictions*
 
