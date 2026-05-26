@@ -401,7 +401,7 @@ Graduating May 2026
 
 📧 Email: [shivampawars@gmail.com](mailto:shivampawars@gmail.com)  
 💼 LinkedIn: [linkedin.com/in/shivam-pawar09](https://linkedin.com/in/shivam-pawar09/)  
-🐙 GitHub: [github.com/[your-username]](https://github.com/[your-username])
+🐙 GitHub: [github.com/[your-username]](https://github.com/Shivam9927)
 
 ---
 
@@ -423,7 +423,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you use this project for research or educational purposes, please cite:
 Pawar, S. (2026). Supply Chain Delivery Optimization & Late Delivery Risk Prediction.
-GitHub repository: https://github.com/[your-username]/supply-chain-delivery-optimization
+GitHub repository: https://github.com/Shivam9927/supply-chain-delivery-optimization
 
 ---
 
